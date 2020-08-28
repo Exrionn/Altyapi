@@ -1,0 +1,27 @@
+{
+  "name": "exrion-temiz-altyapi",
+  "version": "1.0.0",
+  "description": "Exrion Temiz Altyapı.",
+  "main": "exrion.js",
+  "scripts": {
+    "start": "node exrion.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^11.5.1",
+    "quick.db": "^7.1.1",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/Exrionn"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Exrion",
+    "Altyapı",
+    "Exrion Altyapı"
+  ]
+}
