@@ -17,7 +17,7 @@ setInterval(() => {
 
 ///////En Gerekli Modüller\\\\\
 const { Client, RichEmbed, Collection } = require("discord.js")
-const exrion = new Client
+const exrion = new Client()
 const fs = require("fs")
 const db = require("quick.db")
 //////En Gerekli Modüller\\\\\\
